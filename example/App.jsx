@@ -1,6 +1,5 @@
 import React from "react";
 import { createRoot } from "react-dom/client";
-
 import ImageGallery from "src/components/ImageGallery";
 
 const PREFIX_URL =
